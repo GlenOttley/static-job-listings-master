@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static-job-listings-master/static/css/main.f49705ee.chunk.css",
+    "main.js": "/static-job-listings-master/static/js/main.a51c3aab.chunk.js",
+    "main.js.map": "/static-job-listings-master/static/js/main.a51c3aab.chunk.js.map",
+    "runtime-main.js": "/static-job-listings-master/static/js/runtime-main.67ac9021.js",
+    "runtime-main.js.map": "/static-job-listings-master/static/js/runtime-main.67ac9021.js.map",
+    "static/js/2.2bbfcc3c.chunk.js": "/static-job-listings-master/static/js/2.2bbfcc3c.chunk.js",
+    "static/js/2.2bbfcc3c.chunk.js.map": "/static-job-listings-master/static/js/2.2bbfcc3c.chunk.js.map",
+    "static/js/3.19d184e3.chunk.js": "/static-job-listings-master/static/js/3.19d184e3.chunk.js",
+    "static/js/3.19d184e3.chunk.js.map": "/static-job-listings-master/static/js/3.19d184e3.chunk.js.map",
+    "index.html": "/static-job-listings-master/index.html",
+    "static/css/main.f49705ee.chunk.css.map": "/static-job-listings-master/static/css/main.f49705ee.chunk.css.map",
+    "static/js/2.2bbfcc3c.chunk.js.LICENSE.txt": "/static-job-listings-master/static/js/2.2bbfcc3c.chunk.js.LICENSE.txt",
+    "static/media/bg-header-mobile.9cb13612.svg": "/static-job-listings-master/static/media/bg-header-mobile.9cb13612.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67ac9021.js",
+    "static/js/2.2bbfcc3c.chunk.js",
+    "static/css/main.f49705ee.chunk.css",
+    "static/js/main.a51c3aab.chunk.js"
+  ]
+}
